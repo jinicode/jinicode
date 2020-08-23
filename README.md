@@ -5,7 +5,7 @@
 
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=varadbhogayata&show_icons=true"> -->
 
-* See my portfolio: 
+* See my portfolio: loading <img align='right' src="https://media3.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.webp?cid=ecf05e4758v3q2q832io30d0u0llpxgwiaqu4wjnas7wajpr&rid=giphy.webp" width="30">
 * Connect with me on Linkedin: https://www.linkedin.com/in/jinit-jain-720607187/
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
