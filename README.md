@@ -5,7 +5,7 @@
 
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=jinicode&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=jinicode&show_icons=true">
 
 * See my portfolio: https://jinicode.github.io/
 * Connect with me on Linkedin: https://www.linkedin.com/in/jinit-jain-720607187/
